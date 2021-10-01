@@ -1,6 +1,7 @@
 {
   "commands": [
 	  "clear A2",
-	  "clear D4"
+	  "clear D4",
+	  "clear F6"
   ]
 }
